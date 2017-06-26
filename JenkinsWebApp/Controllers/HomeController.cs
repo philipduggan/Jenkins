@@ -10,7 +10,7 @@ namespace JenkinsWebApp.Controllers
     {
         public ActionResult Index()
         {
-            //This is a change2
+            //This is a change
             return View();
         }
 
