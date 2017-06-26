@@ -15,7 +15,7 @@ namespace JenkinsWebApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page ok.";
+            ViewBag.Message = "Jenkins CI/CD test";
 
             return View();
         }
